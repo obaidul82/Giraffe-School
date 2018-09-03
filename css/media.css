@@ -1,0 +1,255 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.custom_img {
+    width: 140px;
+}
+.custom_nav ul li a {
+    text-align: center;
+}
+.custom_dropdown {
+    text-align: center;
+}
+.icon {
+    text-align: center;
+}
+.banner_top {
+    background-image: none;
+    background-color: white;
+}
+
+.banner_top h1 {
+    font-size: 35px;
+}
+.banner_top p {
+    font-size: 20px;
+}
+.scroll {
+    margin-top: 235px;
+}
+.common hr {
+    margin-left: 18%;
+}
+.blog_1 img {
+    width: 30%;
+}
+.custom_card {
+    border-radius: 16px;
+    margin-bottom: 25px;
+}
+.skils img {
+    width: 50% !important;
+}
+.image1 img {
+    margin-left: 14%;
+}
+.experiences {
+	background-image: none;
+    background-color: grey;
+    padding-bottom: 90px;
+}
+.experiences1 img {
+    margin-top: -20px;
+    width: 40%;
+}
+.arts_h5 {
+    font-size: 18px;
+}
+.mind_body p {
+    font-size: 11px;
+    margin-bottom: 0px;
+}
+.school_body h5 {
+    font-size: 16px;
+    padding-top: 8px;
+    margin-bottom: -8px !important;
+}
+.school_body hr {
+    margin-bottom: 6px;
+}
+.school_body p {
+    font-size: 11px;
+}
+.listen_body h5 {
+    font-size: 16px;
+    padding-top: 8px;
+    margin-bottom: -8px !important;
+}
+.listen_body p {
+    font-size: 11px;
+    margin-bottom: 0px;
+}
+.footer_cloud {
+    background-image: none;
+}
+.instagram {
+    padding-top: 30px;
+}
+.contact {
+    padding-top: 30px;
+}
+.newsletter {
+    padding-bottom: 50px;
+}
+.letter_body h5 {
+    padding-top: 20px;
+}
+
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+.custom_nav ul li a {
+    text-align: center;
+}
+.custom_dropdown {
+    text-align: center;
+}
+.icon {
+    text-align: center;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+.custom_nav ul li a {
+    font-size: 15px;
+}
+.custom_dropdown {
+    text-align: center;
+}
+.icon {
+    text-align: center;
+}
+.common hr {
+    margin-left: 34%;
+}
+.custom_small {
+	border: none;
+}
+.card-text {
+    padding-bottom: 25px;
+}
+.card-text2 {
+    padding-bottom: 76px;
+}
+.card-text4 {
+    padding-bottom: 24px;
+}
+.skils img {
+    width: 55% !important;
+}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+.custom_nav ul li a{
+    font-weight: 600;
+    font-size: 18px;
+}
+.common hr {
+    margin-left: 38% !important;
+}
+.custom_small{
+    border-right: 1px solid #dddddd;
+    padding-right: 4px !important;
+}
+.card-text2 {
+    padding-bottom: 54px !important;
+}
+.card-text3 {
+    padding-bottom: 29px;
+}
+.parent{
+    padding-top: 40px;
+}
+.kindergarten{
+    padding-top: 40px;
+}
+.math_party{
+    padding-top: 40px;
+}
+.arts_h5 {
+    font-size: 24px;
+}
+.mind_body h5 {
+    font-size: 24px;
+}
+.school_body h5{
+    font-size: 24px;
+}
+.listen_body h5{
+     font-size: 24px;
+}
+.mind_body p{
+   font-size: 14px;
+}
+.school_body p{
+   font-size: 14px;
+}
+.listen_body p{
+   font-size: 14px;
+}
+.custom_mind img{
+    margin-bottom: 30px !important;
+}
+.footer_logo img {
+    padding-bottom: 28px;
+}
+.about_us p{
+    font-size: 14px;
+}
+.insta_image1 {
+    padding-top: 28px;
+}
+.insta_image1 img {
+    height: 100px;
+}
+.insta_image2 img {
+    height: 100px;
+}
+.contact_content {
+    padding-top: 35px;
+}
+.contact_content p {
+    font-size: 14px;
+}
+.insta_body h5{
+    font-size: 20px;
+}
+.contact_body h5{
+    font-size: 20px;
+}
+.news_body h5{
+    font-size: 20px;
+}
+.newsletter p {
+    font-size: 14px;
+    padding-top: 37px;
+}
+.custom_wifi {
+    margin-right: 17%;
+}
+.menu ul li a {
+    font-size: 18px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.custom_nav ul li a{
+    font-weight: 600;
+    font-size: 18px;
+}
+.custom_small{
+    border-right: 1px solid #dddddd;
+    padding-right: 4px !important;
+}
+.newsletter p {
+    font-size: 14px;
+}
+
+}
