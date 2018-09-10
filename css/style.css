@@ -757,15 +757,16 @@ hr{}
     padding-top: 10px;
 }
 
-.from_content{
+.form_content{
     position: relative;
 }
-.from_content input{
+.form_content input{
     width: 100%;
     border: 1px solid #cccccc;;
     border-radius: 5px;
+    padding-right: 15%;
 }
-.from_content button{
+.form_content button{
     position: absolute;
     top: 0;
     right: 6px;
